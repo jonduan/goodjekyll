@@ -34,4 +34,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "_rmd
 
 enable_mathjax: True
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: ""
+#google_analytics: ""
