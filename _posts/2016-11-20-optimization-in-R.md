@@ -76,3 +76,9 @@ And I knew this from a great blog [Yet Another Math Programming Consultant](http
 [Erwin Kalvelagen](https://plus.google.com/100547539949080099832) practices optimization in R, GAMS, and Julia. 
 
 It is worth reading his blog.
+
+[gdxrrw and R 3.3.1](gdxrrw and R 3.3.1)
+
+I will definitely try this approach to integrate R and GAMS these two great tools.
+
+
