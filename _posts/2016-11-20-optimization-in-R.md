@@ -56,6 +56,16 @@ get_solution(result, y)
  - get_solution() returns the solution of a solved model for a given variable or group of variables
 
 
+## Solver
+
+Solvers are in different packages. ompr.ROI uses the ROI package which offers support for all kinds of solvers.
+
+ - with_ROI(solver = "glpk") solve the model with GLPK. Install ROI.plugin.glpk
+ - with_ROI(solver = "symphony") solve the model with Symphony. Install ROI.plugin.symphony
+ - with_ROI(solver = "cplex") solve the model with CPLEX. Install ROI.plugin.cplex
+ - ... See the ROI package for more plugins.
+
+
 ## Source
 
 And I knew this from a great blog [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.ca/search?updated-max=2016-09-07T12:43:00-04:00&max-results=10&start=26&by-date=false) in Amsterdam. 
